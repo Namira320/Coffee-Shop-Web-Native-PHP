@@ -38,7 +38,7 @@ The system database consists of 5 main entities:
 
 ---
 
-## 🖥️ Documentation & Demo
+## 🖥️ Documentation 
 
 | Feature | Description |
 | :--- | :--- |
