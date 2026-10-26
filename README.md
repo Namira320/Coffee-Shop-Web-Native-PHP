@@ -40,15 +40,13 @@ The system database consists of 5 main entities:
 
 ## 🖥️ Documentation & Demo
 
-Below are several interface screenshots from the **Classic Coffee** web application:
-
-| Feature | Documentation Preview | Description |
-| :--- | :---: | :--- |
-| **Home Page** | ![Home](kopi-kenangan-petang/img/header-bg.jpg) | Main page featuring the modern hero banner of Classic Coffee. |
-| **About Us** | ![About Us](kopi-kenangan-petang/img/tentang-kami.jpg) | Information page detailing the profile, dedication, and background of the coffee shop. |
-| **Our Menu** | ![Menu](kopi-kenangan-petang/img/menu/1.jpg) | Catalog of coffee, non-coffee, and pastry products with dynamic filters. |
-| **Product Details & Cart** | ![Cart](kopi-kenangan-petang/img/menu/2.jpg) | Pop-up menu details and management of customer shopping items. |
-| **Contact Page** | ![Contact](kopi-kenangan-petang/img/img/feather-sprite.svg) | Customer feedback form integrated with Google Maps. |
+| Feature | Description |
+| :--- | :--- |
+| **Home Page** | Main page featuring the modern hero banner of Classic Coffee. |
+| **About Us** | Information page detailing the profile, dedication, and background of the coffee shop. |
+| **Our Menu** | Catalog of coffee, non-coffee, and pastry products with dynamic filters. |
+| **Product Details & Cart** | Pop-up menu details and management of customer shopping items. |
+| **Contact Page** | Customer feedback form integrated with Google Maps. |
 
 *(Note: You can adjust the image folder paths above if you move them to a dedicated screenshot asset directory).*
 
