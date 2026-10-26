@@ -1,4 +1,4 @@
-# ☕ Classic Coffee Web Application
+# ☕ Classic Coffee Web Native
 
 <p align="center">
   <b>A Digital Platform Coffee Shop Transaction System Based on Web</b>
