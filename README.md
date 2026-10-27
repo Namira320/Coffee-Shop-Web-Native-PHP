@@ -62,4 +62,4 @@ The system database consists of 5 main entities:
 6. Configure the database connection in the `config/database.php` file if necessary.
 7. Run the project through your browser by accessing:
    ```text
-   http://localhost/project-folder-name/
+   http://localhost/kopi-kenangan-petang/
