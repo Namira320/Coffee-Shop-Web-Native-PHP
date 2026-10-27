@@ -48,8 +48,6 @@ The system database consists of 5 main entities:
 | **Product Details & Cart** | Pop-up menu details and management of customer shopping items. |
 | **Contact Page** | Customer feedback form integrated with Google Maps. |
 
-*(Note: You can adjust the image folder paths above if you move them to a dedicated screenshot asset directory).*
-
 ---
 
 ## ⚙️ Installation Guide
